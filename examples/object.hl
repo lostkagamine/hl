@@ -1,0 +1,9 @@
+]] this time with the object statement
+]] !author ry00001
+
+object HelloWorld
+statement HelloWorld:sayHi do
+    print 'hi!'
+end
+
+HelloWorld:sayHi
